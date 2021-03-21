@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/finacular-pdf/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/finacular-pdf/static/js/main.f8107d6c.chunk.js",
+    "main.js.map": "/finacular-pdf/static/js/main.f8107d6c.chunk.js.map",
+    "runtime-main.js": "/finacular-pdf/static/js/runtime-main.bf2805a2.js",
+    "runtime-main.js.map": "/finacular-pdf/static/js/runtime-main.bf2805a2.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/finacular-pdf/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.196fa74d.chunk.js": "/finacular-pdf/static/js/2.196fa74d.chunk.js",
+    "static/js/2.196fa74d.chunk.js.map": "/finacular-pdf/static/js/2.196fa74d.chunk.js.map",
+    "static/js/3.36e3ad81.chunk.js": "/finacular-pdf/static/js/3.36e3ad81.chunk.js",
+    "static/js/3.36e3ad81.chunk.js.map": "/finacular-pdf/static/js/3.36e3ad81.chunk.js.map",
+    "index.html": "/finacular-pdf/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/finacular-pdf/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/finacular-pdf/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.196fa74d.chunk.js.LICENSE.txt": "/finacular-pdf/static/js/2.196fa74d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf2805a2.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.196fa74d.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.f8107d6c.chunk.js"
+  ]
+}
